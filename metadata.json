@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Política de Privacidade Digital Organizer",
+  "description": "Página de Política de Privacidade Geral para as ferramentas e aplicativos da Digital Organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
